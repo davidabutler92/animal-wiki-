@@ -1,7 +1,6 @@
-#eagle-info, #snake-info, #elephant-info {
+.card {
   display: none;
 }
-
-img {
-  width: 300px;
-}
+ img {
+   width: 300px;
+ }
